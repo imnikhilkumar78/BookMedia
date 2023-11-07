@@ -1,4 +1,5 @@
 # BookWebApp
+This is side project to practice angular, I am planning to create a fully functional Angular Web App for Book review and discussion social media.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
